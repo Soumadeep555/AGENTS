@@ -1,3 +1,4 @@
 langgraph
 dotenv
+langchain_experimental
 
