@@ -1,4 +1,5 @@
 langgraph
 dotenv
 langchain_experimental
+matplotlib 
 
